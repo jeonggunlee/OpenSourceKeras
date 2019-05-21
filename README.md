@@ -7,6 +7,9 @@
 - **일시:** 2019. 5. 22.(수) ~ 5. 23.(목) 17:00~19:00
 - **장소:** 한림대학교 공학관 1102A
 
+### 강의자료
+- [오픈소스 케라스.pdf](https://github.com/jeonggunlee/OpenSourceKeras/blob/master/%EA%B0%9C%EB%82%98%EC%86%8C%EB%82%98%EB%94%A5%EB%9F%AC%EB%8B%9D.pdf)
+
 *매 강좌 수료 시 소프트웨어마일리지 100점 지급
 
 
